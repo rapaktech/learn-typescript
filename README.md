@@ -1,0 +1,1 @@
+# Learning basic TypeScript syntax
